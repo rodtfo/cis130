@@ -1,0 +1,19 @@
+/* CSS for styling the world's most boring web page */
+
+#header {
+   color: white;
+}
+#footer {
+   color: white;
+}
+h1{
+   color: white;
+}
+h2{
+   font-family: Helvetica;
+   font-size: 1em;
+   text-align: center;
+}
+ul{
+   color: white;
+}

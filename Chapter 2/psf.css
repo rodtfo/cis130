@@ -1,0 +1,22 @@
+/* CSS for styling the Painfully Slow Furniture web site */
+
+#menu {
+   text-align: center;
+   font-family: "Snell Roundhand", cursive;
+}
+#footer {
+   color: #0d631c;
+   font-size: .75em;
+   font-family: "Snell Roundhand", cursive;
+   text-align: center;
+}
+h1{
+   color: #0d631c;
+   font-size: 2em;
+   font-family: "Snell Roundhand", cursive;
+   text-align: center;
+}
+ul{
+   color: #0d631c;
+   font-family: "Snell Roundhand", cursive;
+}
